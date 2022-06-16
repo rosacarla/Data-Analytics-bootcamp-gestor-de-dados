@@ -55,7 +55,7 @@ Duração: 16 horas
 
 ## ⏲️ Cronograma do bootcamp
 
-[Turma 222A]()  
+[Turma 222A](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/MBA%20GDD%20222-cronograma.jpg)  
 Início em: 17/02/2022  
 Término em: 09/05/2022  
 
