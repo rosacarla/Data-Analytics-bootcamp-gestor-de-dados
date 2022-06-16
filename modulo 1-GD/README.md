@@ -5,30 +5,30 @@
 ## Conteúdos
 **Capítulo 1. Organizações Orientadas por Dados**  
 - Entendendo o conceito  
-- Análise e Cultura de Dados – (Analytics/Data Culture) 
-- Data Analytics – Análise de Dados  
+- [Análise e Cultura de Dados – (Analytics/Data Culture)](https://www.ecommercebrasil.com.br/artigos/10-tendencias-de-analytics-para-2019-que-devem-ser-observadas/)
+- [Data Analytics – Análise de Dados](https://itforum.com.br/noticias/analise-de-dados-o-atalho-para-as-empresas-em-2019/)  
 - Cultura de Dados (Data Culture) 
-- Dados, Informação e Conhecimento 
+- [Dados, Informação e Conhecimento](http://www.uel.br/revistas/uel/index.php/informacao/article/view/27940) 
 - Pilares para implementação da cultura de Dados
-- Vantagens da Cultura de Dados como estratégia corporativa  
-- Cultura Orientada por Dados 
-- Desafios para implementar cultura orientada por dados 
-- Cultura orientada por Dados – Atores, processos e papéis 
-- Vantagens da Cultura orientada por dados 
-- Tomada de decisão orientada por dados  
-- [Aspectos Relevantes no processo de tomada de decisão](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/acompanhamento-planner.jpg)
+- [Vantagens da Cultura de Dados como estratégia corporativa](https://www.siteware.com.br/gestao-estrategica/indicadores-estrategicos-tatitos-operacionais/)  
+- [Cultura Orientada por Dados](https://rockcontent.com/br/blog/cultura-data-driven/) 
+- [Desafios para implementar cultura orientada por dados](https://connection.mit.edu/sites/default/files/publication-pdfs/data%20driven%20society%20sci%20amer_0.pdf)
+- [Cultura orientada por Dados – Atores, processos e papéis](https://www.thinkwithgoogle.com/intl/pt-br/futuro-do-marketing/novas-tecnologias/sua-empresa-esta-pronta-para-o-futuro-data-driven/)
+- [Vantagens da Cultura orientada por dados](https://www.setting.com.br/blog/gestao-empresarial/ferramentas-tomada-decisao/) 
+- [Tomada de decisão orientada por dados](https://fsense.com/pt/tomada-de-decisoes-eficiente-entenda-o-peso-da-analise-de-dados/)  
+- Aspectos Relevantes no processo de tomada de decisão ([métricas](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/metrica_disponibilidade-dos-servicos.xlsx) - [acompanhamento](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/acompanhamento-planner.jpg))
 
 **Capítulo 2. Análise de Dados no Mundo dos Negócios**  
 - Análise Descritiva: 1ª fase 
 - Análise Preditiva: 2ª fase  
 - Análise Prescritiva: 3ª fase 
 - [Processos da Análise Preditiva](https://en.wikipedia.org/wiki/Predictive_analytics#Predictive_models) 
-- Negócios Orientados a Dados (Data Driven Business – DDB)  
+- [Negócios Orientados a Dados (Data Driven Business – DDB)](https://www.forbes.com/sites/insights-treasuredata/2019/05/01/the-path-to-personalization/?sh=42e1432c7a76)  
 
 **Capítulo 3. Estratégia de Dados**  
 - Pilares de uma cultura orientada por dados  
 - Importância da Estratégia de Dados  
-- Elaboração de uma estratégia de dados 
+- [Elaboração de uma estratégia de dados](https://www.forbes.com/sites/insights-treasuredata/2019/05/01/the-path-to-personalization/?sh=42e1432c7a76) 
 - [Definição do posicionamento da estratégia de dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/outras-praticas/balanced-scorecard) 
 - Elementos da estratégia de dados
 
@@ -37,7 +37,7 @@
 - Controle da gestão de dados
 
 **Capítulo 5. Gestão do Conhecimento**  
-- Processos de conversão do conhecimento
+- [Processos de conversão do conhecimento](https://www.ibccoaching.com.br/portal/vida-profissional/quatro-modos-conversao-do-conhecimento-auxilia-na-empresa/)
 
 **Capítulo 6. Inteligência Competitiva e Business Intelligence**  
 - Conceito
