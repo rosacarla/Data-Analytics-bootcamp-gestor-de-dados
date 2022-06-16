@@ -23,7 +23,7 @@
 - Análise Preditiva: 2ª fase  
 - Análise Prescritiva: 3ª fase 
 - [Processos da Análise Preditiva](https://en.wikipedia.org/wiki/Predictive_analytics#Predictive_models) 
-- [Negócios Orientados a Dados (Data Driven Business – DDB)](https://www.forbes.com/sites/insights-treasuredata/2019/05/01/the-path-to-personalization/?sh=42e1432c7a76)  
+- [Negócios Orientados a Dados (Data Driven Business – DDB)](https://blog.iclinic.com.br/big-data-na-medicina/)  
 
 **Capítulo 3. Estratégia de Dados**  
 - Pilares de uma cultura orientada por dados  
