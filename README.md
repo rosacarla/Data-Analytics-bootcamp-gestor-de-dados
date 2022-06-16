@@ -8,7 +8,7 @@ durante o primeiro semestre de 2022, em modalidade online.
 
 ## 🗒️Módulos do bootcamp (ementa do curso)  
 
-[0. Aquecimento e Regras do Jogo]()  
+[0. Aquecimento e Regras do Jogo](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/Slides%20de%20Aquecimento%20e%20Regras%20do%20Jogo%20-%20Bootcamp%20Gestor(a)%20de%20Dados.pdf)  
 • Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas  
 Duração: 4 horas  
 
