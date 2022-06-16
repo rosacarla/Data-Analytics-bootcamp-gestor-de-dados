@@ -15,7 +15,7 @@
 - Desafios para implementar cultura orientada por dados 
 - Cultura orientada por Dados – Atores, processos e papéis 
 - Vantagens da Cultura orientada por dados 
-- [Tomada de decisão orientada por dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/metrica_disponibilidade-dos-servicos.xlsx)
+- Tomada de decisão orientada por dados  
 - [Aspectos Relevantes no processo de tomada de decisão](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/acompanhamento-planner.jpg)
 
 **Capítulo 2. Análise de Dados no Mundo dos Negócios**  
@@ -62,11 +62,11 @@
 
 
 ## Material didático  
-[Apostila - Módulo I - Bootcamp Gestor(a) de Dados]()  
-[Slides - Material do módulo I - Gestor(a) de Dados]()  
-[Slides - Videoaula - Business Intelligence]()  
-[Slides 1a. Aula Interativa - Módulo I - Bootcamp Gestor(a) de Dados]()  
-[Slides 2a. Aula Interativa - Módulo I - Bootcamp Gestor(a) de Dados]()  
+[Apostila - Módulo I - Bootcamp Gestor(a) de Dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/material-de-aulas/Apostila%20-%20M%C3%B3dulo%201%20-%20Bootcamp%20Gestor(a)%20de%20Dados.pdf)  
+[Slides - Material do módulo I - Gestor(a) de Dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/material-de-aulas/Slides%20-%20Material%20do%20m%C3%B3dulo%201%20-%20Gestor(a)%20de%20dados.pdf)  
+[Slides - Videoaula - Business Intelligence](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/material-de-aulas/Slides-videoaula-business-intelligence.pdf)  
+[Slides 1a. Aula Interativa - Módulo I - Bootcamp Gestor(a) de Dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/material-de-aulas/Slides%201a%20Aula%20Interativa%20-%20M%C3%B3dulo%201%20-%20Bootcamp%20Gestor(a)%20de%20Dados.pdf)  
+[Slides 2a. Aula Interativa - Módulo I - Bootcamp Gestor(a) de Dados](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/material-de-aulas/Slides%202a%20Aula%20Interativa%20%E2%88%92%20M%C3%B3dulo%201%20%E2%88%92%20Bootcamp%20Gestor(a)%20de%20Dados.pdf)  
 
 
 ---  
