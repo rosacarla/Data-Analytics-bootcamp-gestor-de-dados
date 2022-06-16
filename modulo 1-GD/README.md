@@ -52,7 +52,7 @@
 
 ## Atividades práticas
 - [Atividade da 1a. aula interativa](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/atividade-aula-interativa1.pdf)  
-- [Balanced Scorecard: prática com ferramenta BSC Designer](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/balanced-scorecard/Ferramenta_BSC_Designer.gif)  
+- Balanced Scorecard: [prática com ferramenta BSC Designer](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/balanced-scorecard/Ferramenta_BSC_Designer.gif), [relatórios do BSC Designer](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/outras-praticas/balanced-scorecard)  
 - [Atividade da 2a. aula interativa](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/atividade-aula-interativa2.pdf)  
 - [Trabalho Prático](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/trabalho-pratico)  
 - [Desafio do Módulo I - Power BI](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/desafio1-bootcamp-odd/desafio_bootcamp_ood/Orienta%C3%A7%C3%B5es%20para%20o%20Desafio.pdf)  
