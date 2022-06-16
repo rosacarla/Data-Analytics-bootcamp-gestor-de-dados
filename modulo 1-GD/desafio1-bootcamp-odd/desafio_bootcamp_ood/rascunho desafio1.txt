@@ -1,0 +1,20 @@
+1. quantos produtos foram vendidos?  2799
+2. Qual é a quantidade de vendas efetuadas por vendedor? item 04
+3. Quantitativamente, quem é o vendedor campeão de vendas? YGRITTE 
+QTDE 1014
+4. Em termos de valores, preço unitário (R$), quem é o vendedor campeão
+de vendas? GENDRY 930 X 2000 = 1.860.000,00
+5. Qual é o produto mais vendido? CEVADA
+6. Quem é o vendedor TOP de vendas desse produto e qual é o percentual
+de vendas desse vendedor neste produto? YGRITTE 35,73%
+7. Qual é o valor da receita total?  3,66 mi
+8. Qual é a receita por vendedor? item 11
+9. Produto mais vendido? CEVADA
+10. Percentual da receita total deste produto? 93,4%
+11. Valor da receita deste produto? 3,42 MI
+12. Quantidade total do produto mais vendido? 2590
+13.Vendedores responsáveis por esta venda/receita. BERIC, GENDRY, GILLY,
+REY JOFFREY, YGRITTE
+14. Percentual de cada vendedor? item 14
+15. Qual é a receita por vendedor? item 15 
+16. Quantidade de cada produto vendido? item 16

@@ -1,0 +1,6 @@
+Cliente ID_Cliente
+Extra           1
+Carrefour        2
+Sonda            3
+Big              4
+Barateiro       5
