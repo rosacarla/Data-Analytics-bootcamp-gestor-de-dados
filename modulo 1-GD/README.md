@@ -1,4 +1,4 @@
-# MÓDULO 1: Fundamentos de Oroganizações Orientadas por Dados  
+# MÓDULO 1: Fundamentos de Organizações Orientadas por Dados  
 
 ---  
 
