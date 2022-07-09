@@ -19,7 +19,6 @@ Duração: 4 horas
 • Estratégias de dados com base em objetivos organizacionais  
 • Governança de Dados e DMBOK  
 • Gestão do Conhecimento, Inteligência Competitiva e Business Intelligence  
-
 Duração: 32 horas  
 
 [2. Segurança e Privacidade de Dados]()  
