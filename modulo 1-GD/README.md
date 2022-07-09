@@ -55,11 +55,11 @@
 - Balanced Scorecard: [vídeo de uso da ferramenta BSC Designer](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/balanced-scorecard/Ferramenta_BSC_Designer.gif), [relatórios do BSC Designer](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/outras-praticas/balanced-scorecard)  
 - [Atividade da 2a. aula interativa](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/atividade-aula-interativa2.pdf)  
 - [Trabalho Prático](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/trabalho-pratico)  
-- [Desafio do Módulo I - Power BI]()  
-Parte teórica: [teste]()  
+- [Desafio do Módulo I - Power BI](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/desafio-pratico/desafio_bootcamp_ood_parte1/Enunciado%20do%20Desafio%20%E2%80%93%20M%C3%B3dulo%201%20%E2%80%93%20Gestor(a)%20de%20Dados.docx.pdf)  
+Parte teórica: [teste](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/desafio-pratico/desafio_bootcamp_ood_parte1/desafio1-questoes.pdf)  
 Parte prática: Dashboard Desafio-Vendas publicado no Power BI, demonstra-se a funcionalidade "Obter insights":
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/images/18%20Dashboard_Desafio_Vendas_com_insights.gif">
 </p>  
 
 ---  
