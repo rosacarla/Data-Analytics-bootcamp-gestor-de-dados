@@ -1,5 +1,0 @@
-"ID PRODUTO"		"ProduTO"	"Tipo"
-1	                "TRIGO"	        "GRAO"
-2	                 "SOJA"	        "GRAO"
-3	                 "ARROZ"	"GRAO"
-4	                 "CAFÉ"	        "GRAO"
