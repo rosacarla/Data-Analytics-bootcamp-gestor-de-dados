@@ -56,7 +56,8 @@
 - [Atividade da 2a. aula interativa](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/blob/main/modulo%201-GD/outras-praticas/atividade-aula-interativa2.pdf)  
 - [Trabalho Prático](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD/trabalho-pratico)  
 - [Desafio do Módulo I - Power BI]()  
-Dashboard Desafio-Vendas publicado no Power BI, demonstra-se a funcionalidade "Obter insights":
+Parte teórica: [teste]()  
+Parte prática: Dashboard Desafio-Vendas publicado no Power BI, demonstra-se a funcionalidade "Obter insights":
 <p align="center">
 	<img src="" width="750">
 </p>  
