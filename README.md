@@ -12,13 +12,14 @@ durante o primeiro semestre de 2022, em modalidade online.
 • Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas  
 Duração: 4 horas  
 
-[1. Fundamentos](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD)  
+[1. Fundamentos](https://github.com/rosacarla/Data-Analytics-bootcamp-gestor-de-dados/tree/main/modulo%201-GD)(práticas com Power BI)  
 • Organização e cultura orientada a dados  
 • Tomada de decisão e negócios orientados a dados  
 • Processos de uma empresa orientada a dados  
 • Estratégias de dados com base em objetivos organizacionais  
 • Governança de Dados e DMBOK  
 • Gestão do Conhecimento, Inteligência Competitiva e Business Intelligence  
+
 Duração: 32 horas  
 
 [2. Segurança e Privacidade de Dados]()  
